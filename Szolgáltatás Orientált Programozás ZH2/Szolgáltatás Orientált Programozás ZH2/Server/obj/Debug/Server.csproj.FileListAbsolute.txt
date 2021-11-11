@@ -1,0 +1,7 @@
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Server\bin\Debug\Server.exe.config
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Server\bin\Debug\Server.exe
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Server\bin\Debug\Server.pdb
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Server\obj\Debug\Server.exe
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Server\obj\Debug\Server.pdb
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Server\obj\Debug\Server.csprojAssemblyReference.cache

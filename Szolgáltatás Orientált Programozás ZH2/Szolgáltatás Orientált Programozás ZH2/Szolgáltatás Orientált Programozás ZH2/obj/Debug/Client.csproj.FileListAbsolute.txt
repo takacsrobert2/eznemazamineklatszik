@@ -1,0 +1,13 @@
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\bin\Debug\Szolgáltatás Orientált Programozás ZH2.exe.config
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\bin\Debug\Szolgáltatás Orientált Programozás ZH2.exe
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\bin\Debug\Szolgáltatás Orientált Programozás ZH2.pdb
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\obj\Debug\Client.csprojAssemblyReference.cache
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\obj\Debug\Szolgáltatás Orientált Programozás ZH2.exe
+F:\Downloads\Szop zh2.2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\obj\Debug\Szolgáltatás Orientált Programozás ZH2.pdb
+C:\Users\ttrob\OneDrive\Asztali gép\Szopzh\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\bin\Debug\Szolgáltatás Orientált Programozás ZH2.exe.config
+C:\Users\ttrob\OneDrive\Asztali gép\Szopzh\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\bin\Debug\Szolgáltatás Orientált Programozás ZH2.exe
+C:\Users\ttrob\OneDrive\Asztali gép\Szopzh\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\bin\Debug\Szolgáltatás Orientált Programozás ZH2.pdb
+C:\Users\ttrob\OneDrive\Asztali gép\Szopzh\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ttrob\OneDrive\Asztali gép\Szopzh\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\obj\Debug\Szolgáltatás Orientált Programozás ZH2.exe
+C:\Users\ttrob\OneDrive\Asztali gép\Szopzh\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\Szolgáltatás Orientált Programozás ZH2\obj\Debug\Szolgáltatás Orientált Programozás ZH2.pdb
